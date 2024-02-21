@@ -3,11 +3,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm FujiwaraChoki (internet name), and I'm currently learning DL, Automation, Ruby and C++ (and C).<br>
+        I'm Greathollow (internet name), and I'm currently learning AI, Python, SQL, C++ (and C).<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <h2 align="center">Request a Service</h2>
-    <p align="center">I build stuff for the web or your local computer, just send me an <a href="mailto:fujicodes@proton.me">E-Mail</a> to see how I can help you.</p><br />
 </p>
 
 <p align="center">
@@ -28,11 +26,8 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/FujiwaraChoki)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/FujiwaraChoki)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/FujiwaraChoki)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/FujiwaraChoki)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/FujiwaraChoki)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/FujiwaraChoki)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/FujiwaraChoki)
 
 ### ML/DL
@@ -42,14 +37,10 @@
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/FujiwaraChoki)
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/FujiwaraChoki)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/FujiwaraChoki)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/FujiwaraChoki)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/FujiwaraChoki)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/FujiwaraChoki)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/FujiwaraChoki)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/FujiwaraChoki)
 
 <details>
